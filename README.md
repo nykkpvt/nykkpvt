@@ -1,16 +1,72 @@
-### Hi there 👋
 
-<!--
-**nykkpvt/nykkpvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+ 
+
+ <p align="center"> <img src="https://media.discordapp.net/attachments/912294110742839296/915881455463321640/MOSHED-2021-12-2-13-55-43.gif" alt="Discord" /> </p> 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+   ```js 
+
+   const Nik = { 
+
+  
+
+   languages: ["Node.js", "Python", "Transcript"], //And so many 
+
+  
+
+   favoriteNumber: 3, //I like this number :) 
+
+  ```
