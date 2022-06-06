@@ -11,7 +11,8 @@
 
  <br>
  <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/743148923467726868.png" alt="Nik" /> </p> 
-
+<br>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nykkpvt&show_icons=true&theme=radical" alt="Git Stats" /> </p> 
 
 
   
