@@ -1,7 +1,6 @@
-> 🥤 Web Back-end Developer
-<br>
- <p align="center"> <img src="https://media.discordapp.net/attachments/912294110742839296/915881455463321640/MOSHED-2021-12-2-13-55-43.gif" alt="Discord" /> </p> 
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About </h1>
+<p>Hello! I’m Soham a self-taught Developer with over 5 months work experience. I started in my study room. Now I’m based in Kolkata, India & enjoying the life in the countryside</p>
+<br> 
  <h3>Discord Stats</h3>
  <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/743148923467726868.png" alt="Nik" /> </p> 
 <h3>Git Stats</h3>
