@@ -47,4 +47,12 @@
 </p>
 
 <h3>Where to find me?</h3>
-<p><a href="https://github.com/nykkpvt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://instagram.com/nyk.xx" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" /><a href="https://discord.gg/revert" target="_blank"><img alt="discord" src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=black" />
+<a href="https://www.instagram.com/nykk.xx/">
+  <img align="left" alt="Nik's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/revert">
+  <img align="left" alt="Nik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://github.com/nykkpvt">
+  <img align="left" alt="Nik's Git" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
