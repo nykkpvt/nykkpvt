@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About </h1>
-<p>Hello! I’m Soham a self-taught Developer with over 5 months work experience. I started in my study room. Now I’m based in Kolkata, India & enjoying the life in the countryside</p>
+  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=serif&duration=4000&color=03FFC4&center=true&vCenter=true&lines=I+am+Nik+a+9th+grade+student.;I+am+from+West+Bengal%2C+India.;I+am+a+beginner+with+javascript+and+python.;Thanks+for+checking+my+profile" alt="Nik" /> </p> 
 <br> 
  <h3>Discord Stats</h3>
- <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/743148923467726868.png" alt="Nik" /> </p> 
+ <p align="center"> <img src="https://discord.c99.nl/widget/theme-3/743148923467726868.png" alt="nik" /> </p> 
 <h3>Git Stats</h3>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nykkpvt&show_icons=true&theme=radical" alt="Git Stats" /> </p> 
  <br>
