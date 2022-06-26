@@ -56,3 +56,6 @@
 <a href="https://github.com/nykkpvt">
   <img align="left" alt="Nik's Git" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
+<br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/nykpvt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imtiyazCode" /></a></p><br><br><br>
